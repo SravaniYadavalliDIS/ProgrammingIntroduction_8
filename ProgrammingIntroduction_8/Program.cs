@@ -7,7 +7,7 @@ using System.Diagnostics;
 Console.WriteLine("Hello World!");
 // Console.ReadKey();
 // Debug.WriteLine("Hello World!");
-
+//This is a basics of a sample programs
 // variables and native operations
 int x;
 int y;
