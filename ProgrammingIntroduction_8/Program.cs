@@ -2,7 +2,7 @@
 
 using System.Diagnostics;
 
-
+// this is a simple program of learning basics
 // example 0 - first program
 Console.WriteLine("Hello World!");
 // Console.ReadKey();
